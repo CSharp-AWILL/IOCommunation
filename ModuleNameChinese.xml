@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Parameters>
+  <IOCommunation>IO卡</IOCommunation>
+  <Reader>IO读</Reader>
+  <Writer>IO写</Writer>
+
+  <Aidi>人工智能</Aidi>
+  <AqAidiPro>增强人工智能</AqAidiPro>
+
+  <CalibrationGroup>标定工具</CalibrationGroup>
+  <AqCalibration>标定模块</AqCalibration>
+  <SingleCameraCatch>单相机抓取</SingleCameraCatch>
+  <AqPureCalibration>纯坐标标定</AqPureCalibration>
+  <AqCalibrationPut>双相机放置</AqCalibrationPut>
+  <PutMultiPosition>多放置位</PutMultiPosition>
+
+  <ImageGroup>图像采集</ImageGroup>
+  <AqJAI>JAI相机</AqJAI>
+  <AqImageSave>图像保存</AqImageSave>
+  <AqBasler>Basler相机</AqBasler>
+  <AqDaHeng>大恒相机</AqDaHeng>
+  <AqDaHua>大华相机</AqDaHua>
+  <AqHikVision>海康相机</AqHikVision>
+  <AqCapture>采集模块</AqCapture>
+
+  <ConnectionGroup>通讯工具</ConnectionGroup>
+  <AqTR8Send>天机发送</AqTR8Send>
+  <AqTR8Read>天机接收</AqTR8Read>
+  <AqConnection>通讯主机</AqConnection>
+  <AqConnectionSend>通讯发送</AqConnectionSend>
+  <AqConnectionReceive>通讯接收</AqConnectionReceive>
+  <AqMotoPlus>天机MotoPlus</AqMotoPlus>
+  <MELSECWrite>三菱MC写</MELSECWrite>
+  <MELSECRead>三菱MC读</MELSECRead>
+
+  <GeometricCalculation>几何计算</GeometricCalculation>
+  <PointToPoint>点到点</PointToPoint>
+  <PointToLine>点到线</PointToLine>
+  <LineToLine>线到线(点角)</LineToLine>
+  <LineToLine2>线到线(点点)</LineToLine2>
+
+  <LocationGroup>定位工具</LocationGroup>
+  <FindLine>检测直线</FindLine>
+  <FindCircle>检测圆</FindCircle>
+  <AqSharpMatch>形状搜索</AqSharpMatch>
+  <AqSharpMatch2>几何模板</AqSharpMatch2>
+
+  <LogicGroup>逻辑工具</LogicGroup>
+  <AqIfModule>判断</AqIfModule>
+  <AqEndIfModule>End判断</AqEndIfModule>
+  <AqWhileModule>循环</AqWhileModule>
+  <AqEndWhileModule>End循环</AqEndWhileModule>
+
+  <TextGroup>文本工具</TextGroup>
+  <ResolveString>字符串拆分</ResolveString>
+  <GenerateString>字符串生成</GenerateString>
+
+  <ToolGroup>常用工具</ToolGroup>
+  <ImageSave>图像保存</ImageSave>
+  <TextDisplay>字符显示</TextDisplay>
+  <AqDataSave>数据保存</AqDataSave>
+
+  <ArithmeticGroup>算术工具</ArithmeticGroup>
+  <ArithLogic>算术逻辑</ArithLogic>
+  <ArithCalculate>算术计算</ArithCalculate>
+
+  <AqImageProcessGroup>预处理工具</AqImageProcessGroup>
+  <ImageTrans>图像变换</ImageTrans>
+  <ImageArithmetric>图像运算</ImageArithmetric>
+  <GrayNormalization>归一化</GrayNormalization>
+  <GrayMorphology>形态学</GrayMorphology>
+  <GrayEnhance>图像增强</GrayEnhance>
+  <ImageFilters>滤波</ImageFilters>
+  <GrayBipolar>二值化</GrayBipolar>
+  <GrayInvert>反色</GrayInvert>
+  <GrayFillUp>孔洞填充</GrayFillUp>
+  <ColorGray>彩色转灰</ColorGray>
+
+  <RecognitionGroup>识别工具</RecognitionGroup>
+  <AqDataCodeFinder>读码</AqDataCodeFinder>
+
+  <MeasureGroup>测量工具</MeasureGroup>
+  <AqCaliper>卡尺测量</AqCaliper>
+</Parameters>
